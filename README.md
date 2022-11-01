@@ -1,6 +1,3 @@
-
-[![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=carefree-ladka)](https://github.com/anuraghazra/github-readme-stats)
-
 <h1 align="center">Hi 👋, I'm Pawan</h1>
 <h3 align="center">A full stack engineer from Lucknow India.</h3>
 
