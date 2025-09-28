@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pawan
 
-## Senior Full Stack Engineer | System Architecture Specialist
+## Senior Full Stack Engineer 
 ### 📍 Lucknow, India | Open to Remote Opportunities
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carefree-ladka&label=Profile%20views&color=0e75b6&style=flat" alt="carefree-ladka" /> </p>
