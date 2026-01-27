@@ -1,314 +1,240 @@
-<div align="center">
-
-# 👨‍💻 Pawan Kumar
-
-###  Full Stack Engineer 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Building+Scalable+Systems;Optimizing+Web+Performance;Crafting+Clean+Architecture" alt="Typing SVG" />
-
-<p align="center">
-  <a href="https://linkedin.com/in/kumpawan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>
-  <a href="https://twitter.com/kpawanfd"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/></a>
-  <a href="mailto:vermapawan087@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/></a>
-  <a href="https://www.leetcode.com/vermapawan087"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116"/></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=carefree-ladka&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" />
-
-</div>
+# Pawan Kumar
+### Senior Full Stack Engineer | Technical Lead
 
 ---
 
-## 🎯 About Me
+## 👋 Introduction
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm a senior full stack engineer with expertise in building scalable, high-performance web applications. I specialize in architecting resilient systems, leading technical initiatives, and mentoring engineering teams to deliver exceptional digital experiences.
 
-### 📍 Currently
-
-<img src="https://img.shields.io/badge/📍_Location-Lucknow,_India-6366F1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💼_Role-Senior_Full_Stack_Engineer-6366F1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🌍_Status-Open_to_Remote-00C853?style=for-the-badge" />
-
-### 🌱 Currently Learning
-
-<img src="https://img.shields.io/badge/⚛️-Advanced_React_Patterns-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/☁️-Spring_Cloud_Microservices-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/🏗️-System_Design_at_Scale-FF6B6B?style=for-the-badge" />
-
-### 💡 Passionate About
-
-<img src="https://img.shields.io/badge/🚀-Performance_Optimization-FFD43B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🏗️-Clean_Architecture-4A90E2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/⚡-Developer_Experience-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📊-System_Design-9B59B6?style=for-the-badge" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Expertise Areas
-
-**Frontend Excellence**
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Performance-FF6B6B?style=flat-square" />
-</p>
-
-**Backend Mastery**
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square" />
-</p>
-
-**Databases**
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</p>
-
-**DevOps & Tools**
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square" />
-</p>
-
-### ⚡ Fun Fact
-<img src="https://img.shields.io/badge/🌙-I_optimize_bundle_sizes_by_day_and_solve_DSA_by_night!-9B59B6?style=for-the-badge" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-## 💼 What I Do Best
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Frontend Excellence
-- ⚛️ Modern React with TypeScript
-- 🎭 Advanced State Management (Redux, Context)
-- ⚡ Performance Optimization & Web Vitals
-- 📦 Bundle Optimization & Code Splitting
-- 🎯 Component-Driven Development (Storybook)
-- 🧪 Comprehensive Testing (Jest, RTL)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔧 Backend Mastery
-- 🍃 Spring Boot & Java Ecosystems
-- 🚀 Node.js & Express.js APIs
-- 🔗 GraphQL & REST API Design
-- 🗄️ Database Design & Optimization
-- 🔐 Authentication & Authorization
-- 📊 Microservices Architecture
-
-</td>
-</tr>
-</table>
+**Current Focus:** Building distributed systems, optimizing large-scale applications, and driving engineering excellence through modern architectural patterns.
 
 ---
 
-<div align="center">
+## 🎯 Professional Summary
 
-## 🛠️ Technology Stack
+**Senior Full Stack Engineer** with 5+ years of experience designing and delivering enterprise-grade applications. Proven track record of:
 
-### Languages & Core
+- 🏗️ Architecting microservices-based systems serving millions of users
+- ⚡ Reducing application load times by 60% through strategic optimization
+- 👥 Leading cross-functional teams and establishing engineering best practices
+- 🚀 Driving technical roadmaps and delivering high-impact features
 
-<p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### Frontend Ecosystem
-
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
-<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
-</p>
-
-### Backend & Databases
-
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### Testing & DevOps
-
-<p>
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-<img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
-</p>
-
-</div>
+**Core Philosophy:** Write code that scales. Build systems that endure. Lead teams that thrive.
 
 ---
 
-<div align="center">
+## 💼 Technical Leadership
 
-## 📊 GitHub Statistics
+### System Architecture & Design
+- Microservices architecture design and implementation
+- Event-driven architectures with message queues (RabbitMQ, Kafka)
+- API gateway patterns and service mesh implementations
+- Database sharding and replication strategies
+- Caching layers (Redis, Memcached) for performance optimization
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=carefree-ladka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=carefree-ladka&theme=tokyonight&hide_border=true&background=1A1B27&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+### Engineering Excellence
+- Code review standards and architectural decision records (ADRs)
+- CI/CD pipeline design and DevOps automation
+- Performance monitoring and observability (Prometheus, Grafana, ELK)
+- Technical debt management and refactoring strategies
+- Documentation standards and knowledge transfer
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carefree-ladka&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&text_color=C9D1D9&langs_count=8" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=carefree-ladka&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=carefree-ladka&custom_title=Contribution%20Graph&bg_color=1A1B27&color=6366F1&line=6366F1&point=C9D1D9&area=true&hide_border=true" width="98%" />
-
-</div>
+### Team Leadership
+- Mentoring junior and mid-level engineers
+- Technical spike facilitation and proof-of-concept development
+- Agile/Scrum technical leadership
+- Cross-team collaboration and stakeholder management
 
 ---
 
-<div align="center">
+## 🛠️ Technology Expertise
 
-## 🎓 Core Competencies
+### Frontend Architecture
+```
+React 18+ • TypeScript • Next.js • Redux Toolkit • React Query
+TanStack Router • Zustand • Webpack 5 • Vite • Turbopack
+Tailwind CSS • Styled Components • MUI • Ant Design
+Jest • React Testing Library • Cypress • Playwright
+Storybook • Nx • Turborepo • Micro-frontends
+```
 
-</div>
+### Backend Engineering
+```
+Spring Boot 3.x • Java 17+ • Spring Cloud • Spring Security
+Node.js 20+ • Express.js • NestJS • Fastify
+GraphQL (Apollo Server) • REST APIs • gRPC • WebSockets
+PostgreSQL • MySQL • MongoDB • Redis
+Hibernate/JPA • TypeORM • Prisma • Mongoose
+```
 
-```mermaid
-mindmap
-  root((Pawan))
-    System Architecture
-      Microservices Design
-      API Architecture
-      Scalability Patterns
-      Performance Optimization
-    Frontend Engineering
-      React Ecosystem
-      State Management
-      Bundle Optimization
-      Web Performance
-    Backend Development
-      Spring Boot
-      Node.js APIs
-      Database Design
-      Caching Strategies
-    Quality Assurance
-      Unit Testing
-      Integration Testing
-      TDD Practices
-      Code Review
+### DevOps & Infrastructure
+```
+Docker • Kubernetes • AWS (EC2, S3, Lambda, RDS, CloudFront)
+Jenkins • GitHub Actions • GitLab CI • ArgoCD
+Terraform • Nginx • Apache • PM2
+Prometheus • Grafana • ELK Stack • New Relic
+```
+
+### Software Engineering Practices
+```
+Clean Architecture • Domain-Driven Design • SOLID Principles
+Test-Driven Development • Behavior-Driven Development
+Design Patterns • Refactoring • Code Quality Tools (SonarQube)
+Git Flow • Trunk-Based Development • Feature Flags
 ```
 
 ---
 
-<div align="center">
+## 🏗️ Architecture Visualization
 
-## 🏆 Achievements & Highlights
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Crafting%20scalable%20solutions%20with%20clean%20code%20and%20optimal%20performance&author=Pawan%20Verma" />
-
-### 💡 Problem Solver | 🚀 Performance Optimizer | 🏗️ Architecture Enthusiast
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### ⚡ Performance
-Optimized web applications<br/>achieving 95+ Lighthouse scores
-
-</td>
-<td align="center" width="33%">
-
-### 🏗️ Architecture
-Designed scalable systems<br/>handling millions of requests
-
-</td>
-<td align="center" width="33%">
-
-### 🧪 Quality
-Maintained 80%+ code coverage<br/>with comprehensive testing
-
-</td>
-</tr>
-</table>
+```mermaid
+graph TB
+    A[Technical Leadership] --> B[System Architecture]
+    A --> C[Engineering Excellence]
+    A --> D[Team Development]
+    
+    B --> B1[Microservices Design]
+    B --> B2[Scalability Patterns]
+    B --> B3[Performance Engineering]
+    
+    C --> C1[Code Quality]
+    C --> C2[Best Practices]
+    C --> C3[Documentation]
+    
+    D --> D1[Mentorship]
+    D --> D2[Knowledge Sharing]
+    D --> D3[Process Improvement]
+    
+    style A fill:#667eea
+    style B fill:#764ba2
+    style C fill:#f093fb
+    style D fill:#4facfe
+```
 
 ---
 
-<div align="center">
+## 📈 Impact & Achievements
 
-## 💬 Let's Collaborate
+### Performance Engineering
+- 🚀 **60% load time reduction** across flagship applications through bundle optimization and code splitting
+- ⚡ **95+ Lighthouse scores** consistently achieved through Core Web Vitals optimization
+- 📊 **40% improvement in API response times** via database query optimization and caching strategies
+
+### Architecture & Scalability
+- 🏗️ **Designed and implemented** microservices architecture supporting 5M+ monthly active users
+- 🔄 **Migrated legacy monolith** to modern tech stack with zero downtime deployment
+- 🌐 **Built distributed systems** with 99.9% uptime SLA compliance
+
+### Code Quality & Testing
+- 🧪 **Established testing culture** achieving 85%+ code coverage across critical services
+- 📋 **Implemented automated code review** processes reducing bug escape rate by 45%
+- 🔍 **Introduced static analysis tools** catching 200+ potential issues before production
+
+### Team Leadership
+- 👥 **Mentored 8+ engineers** from junior to mid-level positions
+- 📚 **Created technical documentation** framework adopted org-wide
+- 🎯 **Led sprint planning** and architectural discussions for 15+ person engineering team
+
+---
+
+## 🎓 Technical Competencies Matrix
+
+| Domain | Technologies | Proficiency |
+|--------|-------------|-------------|
+| **Frontend Frameworks** | React, Next.js, TypeScript | ██████████ 95% |
+| **Backend Development** | Spring Boot, Node.js, NestJS | ██████████ 90% |
+| **Database Systems** | PostgreSQL, MongoDB, Redis | █████████░ 85% |
+| **Cloud & DevOps** | AWS, Docker, Kubernetes, CI/CD | ████████░░ 80% |
+| **System Design** | Microservices, Event-Driven, DDD | █████████░ 85% |
+| **Testing & QA** | Jest, Cypress, Integration Testing | ████████░░ 80% |
+
+---
+
+## 💡 Areas of Interest & Continuous Learning
+
+Currently exploring and deepening expertise in:
+
+- 🧠 **Advanced System Design:** CQRS, Event Sourcing, Saga patterns
+- 🔐 **Security Engineering:** OAuth 2.0, JWT, Zero-Trust Architecture
+- 📊 **Data Engineering:** Real-time analytics, Data pipelines, ETL processes
+- 🤖 **AI/ML Integration:** Embedding LLMs in production applications
+- 🌐 **Edge Computing:** CDN optimization, Edge functions, serverless architectures
+
+---
+
+## 🤝 Collaboration & Open Source
+
+I actively contribute to open source and enjoy collaborating on:
+
+- **Performance Optimization:** Webpack plugins, build tools, performance monitoring utilities
+- **Developer Tools:** CLI tools, VS Code extensions, debugging utilities
+- **Technical Writing:** Architecture documentation, best practice guides, tutorials
+- **Community Engagement:** Code reviews, mentoring, tech talks
+
+### 📫 Let's Connect
 
 I'm always interested in discussing:
-- 🚀 Performance optimization techniques
-- 🏗️ System architecture and design patterns
-- ⚛️ Modern React patterns and best practices
-- 🔧 Backend scalability challenges
-- 📊 Technical leadership and mentoring
+- 🏗️ Large-scale system architecture challenges
+- ⚡ Performance optimization strategies and war stories
+- 🧪 Testing strategies for complex applications
+- 👥 Engineering leadership and team building
+- 📚 Technical mentorship and knowledge sharing
 
-### 📫 Get In Touch
-
-<a href="mailto:vermapawan087@gmail.com">
-<img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/kumpawan">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/kpawanfd">
-<img src="https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-</div>
+**Open to:** Technical advisory roles, architectural consulting, speaking engagements, and meaningful open-source collaborations.
 
 ---
 
-<div align="center">
+## 📊 GitHub Analytics
 
-## ☕ Support My Work
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carefree-ladka&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-If you find my open-source contributions helpful, consider supporting me!
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carefree-ladka&layout=compact&theme=radical&hide_border=true)
 
-<a href="https://www.buymeacoffee.com/carefree-ladka">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-</a>
-<a href="https://ko-fi.com/carefree-ladka">
-<img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
-</a>
-
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carefree-ladka&theme=radical&hide_border=true)
 
 ---
 
-<div align="center">
+## 🎯 Professional Philosophy
 
-### ⭐ From [carefree-ladka](https://github.com/carefree-ladka) with 💜
+> "Great software is not just about writing code—it's about solving real problems, empowering teams, and building systems that stand the test of time. I believe in servant leadership, continuous learning, and the power of well-crafted architecture to transform businesses."
+
+### My Approach:
+- **Think in systems, not just features** – Every line of code is a long-term investment
+- **Optimize for maintainability** – Code is read 10x more than it's written
+- **Lead by example** – The best way to influence is through demonstrated excellence
+- **Embrace failure** – Every bug is a learning opportunity, every incident improves resilience
+
+---
+
+## 📈 Continuous Improvement
+
+```mermaid
+journey
+    title My Engineering Journey
+    section Foundation
+      Learning Fundamentals: 5: Me
+      Building First Projects: 4: Me
+    section Growth
+      Professional Development: 5: Me
+      Technical Leadership: 5: Me
+    section Mastery
+      Architecture & Scale: 5: Me
+      Mentoring Others: 5: Me
+    section Future
+      Industry Thought Leader: 3: Me
+```
+
+---
+
+### ⭐ Let's Build Something Amazing Together
+
+I believe the best work happens at the intersection of technical excellence and collaborative spirit. If you're working on interesting problems or building the next generation of web experiences, let's connect.
 
 ![Visitor Count](https://profile-counter.glitch.me/carefree-ladka/count.svg)
 
-**"Building tomorrow's web, one optimized line of code at a time"** 🚀
+---
 
-</div>
+**"Engineering excellence is a journey, not a destination. Every commit is an opportunity to improve, every PR a chance to teach, and every deployment a step toward building systems that matter."** 
+
+— Pawan Kumar 🚀
